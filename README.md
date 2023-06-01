@@ -8,3 +8,5 @@ Hola, profe. Yo estaba en un grupo de tres personas, sin embargo, decidí realiz
 La entrega 1 está contenida en el informe del proyecto.
 
 Enlace a la competención Kaggle:  https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition?resource=download
+
+Enlace al vídeo: https://www.youtube.com/watch?v=rkG5EFIU8Yo
